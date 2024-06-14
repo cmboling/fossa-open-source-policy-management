@@ -1,0 +1,3072 @@
+exportDate: '2024-06-11T09:33:57.870Z'
+policy:
+  title: SaaS Policy v3
+  type: LICENSING
+  description: null
+  organizationId: 12948
+  defaultAction: APPROVE
+  workflow-field-policy-id: 114834
+rules:
+  - type: flagged_license
+    licenseId: AGPL-1.0
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: >-
+      These packages contain code files that may require you to disclose your
+      source code under a compatible license, unless they’re distributed and run
+      as completely separate processes & packages. AGPL also contains provisions
+      requiring delivery of installation information for consumer devices (which
+      may be inconsistent with use in closed systems).
+  - type: flagged_license
+    licenseId: AGPL-3.0-only
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: >-
+      These packages contain code files that may require you to disclose your
+      source code under a compatible license, unless they’re distributed and run
+      as completely separate processes & packages. AGPL also contains provisions
+      requiring delivery of installation information for consumer devices (which
+      may be inconsistent with use in closed systems).
+  - type: flagged_license
+    licenseId: AGPL-3.0-or-later
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: >-
+      These packages contain code files that may require you to disclose your
+      source code under a compatible license, unless they’re distributed and run
+      as completely separate processes & packages. AGPL also contains provisions
+      requiring delivery of installation information for consumer devices (which
+      may be inconsistent with use in closed systems).
+  - type: flagged_license
+    licenseId: CC-BY-SA-1.0
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: flagged_license
+    licenseId: CC-BY-SA-2.0
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: flagged_license
+    licenseId: cc-by-sa-2.0-uk
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: flagged_license
+    licenseId: cc-by-sa-2.1-jp
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: flagged_license
+    licenseId: CC-BY-SA-2.5
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: flagged_license
+    licenseId: CC-BY-SA-3.0
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: flagged_license
+    licenseId: cc-by-sa-3.0-at
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: flagged_license
+    licenseId: cc-by-sa-3.0-de
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: flagged_license
+    licenseId: CC-BY-SA-4.0
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: flagged_license
+    licenseId: CPAL-1.0
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: flagged_license
+    licenseId: OSL-3.0
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: flagged_license
+    licenseId: agpl-1.0-plus
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: flagged_license
+    licenseId: agpl-2.0
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: flagged_license
+    licenseId: agpl-3.0 WITH agpl-generic-additional-terms
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: flagged_license
+    licenseId: agpl-3.0 WITH nicta-exception
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: flagged_license
+    licenseId: agpl-3.0 WITH openssl-exception-agpl-3.0
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: flagged_license
+    licenseId: agpl-3.0 WITH ps-or-pdf-font-exception-20170817
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: flagged_license
+    licenseId: agpl-3.0-bacula
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: flagged_license
+    licenseId: agpl-3.0-plus WITH agpl-generic-additional-terms
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: flagged_license
+    licenseId: agpl-3.0-plus WITH linking-exception-agpl-3.0
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: flagged_license
+    licenseId: agpl-3.0-plus WITH magpie-exception-1.0
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: flagged_license
+    licenseId: agpl-3.0-plus WITH openssl-exception-agpl-3.0
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: denied_license
+    licenseId: Abstyles
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: denied_license
+    licenseId: AFL-2.0
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: denied_license
+    licenseId: Aladdin
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: denied_license
+    licenseId: CC-BY-NC-1.0
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: denied_license
+    licenseId: CC-BY-NC-2.0
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: denied_license
+    licenseId: CC-BY-NC-2.5
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: denied_license
+    licenseId: CC-BY-NC-3.0
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: denied_license
+    licenseId: cc-by-nc-3.0-de
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: denied_license
+    licenseId: CC-BY-NC-4.0
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: denied_license
+    licenseId: CC-BY-NC-ND-1.0
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: denied_license
+    licenseId: CC-BY-NC-ND-2.0
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: denied_license
+    licenseId: cc-by-nc-nd-2.0-au
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: denied_license
+    licenseId: CC-BY-NC-ND-2.5
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: denied_license
+    licenseId: CC-BY-NC-ND-3.0
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: denied_license
+    licenseId: cc-by-nc-nd-3.0-de
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: denied_license
+    licenseId: cc-by-nc-nd-3.0-igo
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: denied_license
+    licenseId: CC-BY-NC-ND-4.0
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: denied_license
+    licenseId: CC-BY-NC-SA-1.0
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: denied_license
+    licenseId: CC-BY-NC-SA-2.0
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: denied_license
+    licenseId: cc-by-nc-sa-2.0-fr
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: denied_license
+    licenseId: cc-by-nc-sa-2.0-uk
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: denied_license
+    licenseId: CC-BY-NC-SA-2.5
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: denied_license
+    licenseId: CC-BY-NC-SA-3.0
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: denied_license
+    licenseId: cc-by-nc-sa-3.0-de
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: denied_license
+    licenseId: cc-by-nc-sa-3.0-us
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: denied_license
+    licenseId: CC-BY-NC-SA-4.0
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: denied_license
+    licenseId: CC-BY-ND-1.0
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: denied_license
+    licenseId: CC-BY-ND-2.0
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: denied_license
+    licenseId: CC-BY-ND-2.5
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: denied_license
+    licenseId: CC-BY-ND-3.0
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: denied_license
+    licenseId: cc-by-nd-3.0-de
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: denied_license
+    licenseId: CC-BY-ND-4.0
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: denied_license
+    licenseId: CPOL-1.02
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: >-
+      You cannot use the package for“illegal, immoral or improper purposes” or
+      “distribute the Executable Files or Source Code with any technological
+      measures that control access or use of the Work in a manner inconsistent
+      with the terms of this License” (which may be inconsistent with delivery
+      in closed systems) and you must “ensure that anyone receiving such
+      Executable Files and Source Code agrees that the terms of this License
+      apply to such Executable Files and/or Source Code” (which requires an
+      assent mechanism).
+  - type: denied_license
+    licenseId: Sleepycat
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: 0BSD
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: Adobe-2006
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: AFL-1.1
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: AFL-1.2
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: AFL-2.1
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: AFL-3.0
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: >-
+      Permissive license which is perfectly safe to use provided proper
+      attribution is given and retained.
+  - type: approved_license
+    licenseId: Apache-1.0
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: Apache-1.1
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: >-
+      Permissive license which is perfectly safe to use provided proper
+      attribution is given and retained.
+  - type: approved_license
+    licenseId: Apache-2.0
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: >-
+      Permissive license which is perfectly safe to use provided proper
+      attribution is given and retained.
+  - type: approved_license
+    licenseId: APL-1.0
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: APSL-1.0
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: APSL-1.1
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: APSL-1.2
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: APSL-2.0
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: Artistic-1.0
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: DIRECT
+    notes: >-
+      Safe if code isn’t modified and notice requirements are followed.
+      Otherwise, you must state and disclose the source code of
+      modifications/derivative works.
+  - type: approved_license
+    licenseId: Artistic-1.0-cl8
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: Artistic-1.0-Perl
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: Artistic-2.0
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: DIRECT
+    notes: >-
+      Safe if code isn’t modified and notice requirements are followed.
+      Otherwise, you must state and disclose the source code of
+      modifications/derivative works.
+  - type: approved_license
+    licenseId: BSD-1-Clause
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: >-
+      Permissive license which is perfectly safe to use provided proper
+      attribution is given and retained.
+  - type: approved_license
+    licenseId: BSD-2-Clause
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: >-
+      Permissive license which is perfectly safe to use provided proper
+      attribution is given and retained.
+  - type: approved_license
+    licenseId: BSD-2-Clause-FreeBSD
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: BSD-2-Clause-NetBSD
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: BSD-2-Clause-Patent
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: BSD-3-Clause
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: >-
+      Permissive license which is perfectly safe to use provided proper
+      attribution is given and retained.
+  - type: approved_license
+    licenseId: BSD-3-Clause-Attribution
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: BSD-3-Clause-Clear
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: BSD-4-Clause
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: >-
+      Permissive license which is perfectly safe to use provided proper
+      attribution is given and retained.
+  - type: approved_license
+    licenseId: BSD-4-Clause-UC
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: BSD-Protection
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: BSL-1.0
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: >-
+      Permissive license which is perfectly safe to use provided proper
+      attribution is given and retained.
+  - type: approved_license
+    licenseId: bzip2-1.0.5
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: bzip2-1.0.6
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: CC-BY-1.0
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: CC-BY-2.0
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: CC-BY-2.5
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: CC-BY-3.0
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: CC-BY-4.0
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: CC0-1.0
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: CDDL-1.0
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: DIRECT
+    notes: >-
+      Safe if code isn’t modified and notice requirements are followed.
+      Otherwise, you must state and disclose the source code of
+      modifications/derivative works.
+  - type: approved_license
+    licenseId: CDDL-1.1
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: ClArtistic
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: DIRECT
+    notes: >-
+      Safe if code isn’t modified and notice requirements are followed.
+      Otherwise, you must state and disclose the source code of
+      modifications/derivative works.
+  - type: approved_license
+    licenseId: CPL-1.0
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: curl
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: EDL-1.0
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: EPL-1.0
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: DIRECT
+    notes: >-
+      Safe if code isn’t modified and notice requirements are followed.
+      Otherwise, you must state and disclose the source code of
+      modifications/derivative works.
+  - type: approved_license
+    licenseId: EPL-2.0
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: ErlPL-1.1
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: EUPL-1.0
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: EUPL-1.1
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: EUPL-1.2
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: FSFAP
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: FTL
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: GFDL-1.1-only
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: GFDL-1.2-only
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: GFDL-1.3-only
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: GPL-1.0-only
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: GPL-1.0-or-later
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: GPL-2.0-only
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: >-
+      These packages contain code files that may require you to disclose your
+      source code under a compatible license, unless they’re distributed and run
+      as completely separate processes & packages.
+  - type: approved_license
+    licenseId: GPL-2.0-or-later
+    linkingCondition: STATIC
+    nameCondition: null
+    depthCondition: DIRECT
+    notes: >-
+      These packages contain code files that may require you to disclose your
+      source code under a compatible license, unless they’re distributed and run
+      as completely separate processes & packages.
+  - type: approved_license
+    licenseId: GPL-2.0-with-classpath-exception
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: >-
+      Safe to include or link in an executable provided that source
+      availability/attribution requirements are followed.
+  - type: approved_license
+    licenseId: GPL-2.0-with-GCC-exception
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: GPL-3.0-only
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: >-
+      These packages contain code files that may require you to disclose your
+      source code under a compatible license, unless they’re distributed and run
+      as completely separate processes & packages.
+  - type: approved_license
+    licenseId: GPL-3.0-or-later
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: >-
+      These packages contain code files that may require you to disclose your
+      source code under a compatible license, unless they’re distributed and run
+      as completely separate processes & packages.
+  - type: approved_license
+    licenseId: GPL-3.0-with-GCC-exception
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: >-
+      Safe to include or link in an executable provided that source
+      availability/attribution requirements are followed.
+  - type: approved_license
+    licenseId: HPND
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: ICU
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: IETF
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: ImageMagick
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: IPL-1.0
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: ISC
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: >-
+      Permissive license which is perfectly safe to use provided proper
+      attribution is given and retained.
+  - type: approved_license
+    licenseId: LGPL-2.0-only
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: >-
+      Requires you to (effectively) disclose your source code if the library is
+      statically linked to your project. Not triggered if dynamically linked or
+      a separate process.
+  - type: approved_license
+    licenseId: LGPL-2.0-or-later
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: >-
+      Requires you to (effectively) disclose your source code if the library is
+      statically linked to your project. Not triggered if dynamically linked or
+      a separate process.
+  - type: approved_license
+    licenseId: LGPL-2.1-only
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: >-
+      Requires you to (effectively) disclose your source code if the library is
+      statically linked to your project. Not triggered if dynamically linked or
+      a separate process.
+  - type: approved_license
+    licenseId: LGPL-2.1-or-later
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: >-
+      Requires you to (effectively) disclose your source code if the library is
+      statically linked to your project. Not triggered if dynamically linked or
+      a separate process.
+  - type: approved_license
+    licenseId: LGPL-3.0-only
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: >-
+      Requires you to (effectively) disclose your source code if the library is
+      statically linked to your project. Not triggered if dynamically linked or
+      a separate process.
+  - type: approved_license
+    licenseId: LGPL-3.0-or-later
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: >-
+      Requires you to (effectively) disclose your source code if the library is
+      statically linked to your project. Not triggered if dynamically linked or
+      a separate process.
+  - type: approved_license
+    licenseId: Libpng
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: libpng-v2
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: LPL-1.0
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: LPL-1.02
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: MIT
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: >-
+      Permissive license which is perfectly safe to use provided proper
+      attribution is given and retained.
+  - type: approved_license
+    licenseId: MIT-advertising
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: MIT-CMU
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: MIT-enna
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: MIT-feh
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: mit-modern
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: mit-old-style
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: mit-old-style-no-advert
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: mit-old-style-sparse
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: mit-veillard-variant
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: MITNFA
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: MPL-1.0
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: MPL-1.1
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: DIRECT
+    notes: >-
+      Safe if code isn’t modified and notice requirements are followed.
+      Otherwise, you must state and disclose the source code of
+      modifications/derivative works.
+  - type: approved_license
+    licenseId: MPL-2.0
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: DIRECT
+    notes: >-
+      Safe if code isn’t modified and notice requirements are followed.
+      Otherwise, you must state and disclose the source code of
+      modifications/derivative works.
+  - type: approved_license
+    licenseId: MPL-2.0-no-copyleft-exception
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: MS-NET
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: MS-PL
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: MS-RL
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: DIRECT
+    notes: >-
+      Safe if code isn’t modified and notice requirements are followed.
+      Otherwise, you must state and disclose the source code of
+      modifications/derivative works.
+  - type: approved_license
+    licenseId: naist-2003
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: NCSA
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: OFL-1.0
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: OFL-1.1
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: OGTSL
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: OpenSSL
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: PHP-3.01
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: PostgreSQL
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: PSF-2.0
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: public-domain
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: QPL-1.0
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: Ruby
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: SGI-B-1.0
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: SGI-B-1.1
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: SimPL-2.0
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: >-
+      SimPL requires you to disclose the source code of “derivative” works
+      (similar to GPL). Due to the ambiguity of what triggers a “derivative”
+      work, we by default deny SimPL.
+  - type: approved_license
+    licenseId: SISSL-1.2
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: SPL-1.0
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: TCL
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: Unlicense
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: UPL-1.0
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: >-
+      A highly permissive license similar to the MIT License with added features
+      including an explicit patent grant, clear ability to relicense (to
+      commercial, proprietary, copyleft or etc...) and usable as a CLA.
+  - type: approved_license
+    licenseId: WTFPL
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: >-
+      Permissive license which is perfectly safe to use provided proper
+      attribution is given and retained.
+  - type: approved_license
+    licenseId: X11
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: Xnet
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: Zlib
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: >-
+      Permissive license which is perfectly safe to use provided proper
+      attribution is given and retained.
+  - type: approved_license
+    licenseId: zlib-acknowledgement
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: gpl-1.0 WITH bash-exception-gpl
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: gpl-1.0-plus WITH autoconf-exception-2.0
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: gpl-1.0-plus WITH autoconf-macro-exception
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: gpl-1.0-plus WITH autoconf-simple-exception-2.0
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: gpl-1.0-plus WITH bison-exception-2.0
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: gpl-1.0-plus WITH classpath-exception-2.0
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: gpl-1.0-plus WITH gcc-linking-exception-2.0
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: gpl-1.0-plus WITH generic-exception
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: gpl-1.0-plus WITH libtool-exception-2.0
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: gpl-1.0-plus WITH openssl-exception-gpl-2.0
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: gpl-1.0-plus WITH ps-or-pdf-font-exception-20170817
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: gpl-2.0 WITH 389-exception
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: gpl-2.0 WITH bash-exception-gpl
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: gpl-2.0 WITH bison-exception-2.2
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: gpl-2.0 WITH clisp-exception-2.0
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: gpl-2.0 WITH cygwin-exception-2.0
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: gpl-2.0 WITH dune-exception
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: gpl-2.0 WITH ecos-exception-2.0
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: gpl-2.0 WITH font-exception-gpl
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: gpl-2.0 WITH freertos-exception-2.0
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: gpl-2.0 WITH gcc-compiler-exception-2.0
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: gpl-2.0 WITH generic-exception
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: gpl-2.0 WITH gpl-generic-additional-terms
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: gpl-2.0 WITH ice-exception-2.0
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: gpl-2.0 WITH javascript-exception-2.0
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: gpl-2.0 WITH linux-syscall-exception-gpl
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: gpl-2.0 WITH mif-exception
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: gpl-2.0 WITH mysql-floss-exception-2.0
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: gpl-2.0 WITH mysql-linking-exception-2018
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: gpl-2.0 WITH openjdk-exception
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: gpl-2.0 WITH openssl-exception-gpl-2.0
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: gpl-2.0 WITH openssl-exception-gpl-3.0-plus
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: gpl-2.0 WITH oracle-mysql-foss-exception-2.0
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: gpl-2.0 WITH oracle-openjdk-classpath-exception-2.0
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: gpl-2.0 WITH qt-qca-exception-2.0
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: gpl-2.0 WITH trolltech-gpl-exception-1.2
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: gpl-2.0 WITH u-boot-exception-2.0
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: gpl-2.0 WITH universal-foss-exception-1.0
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: gpl-2.0-adaptec
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: gpl-2.0-autoconf
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: gpl-2.0-autoopts
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: gpl-2.0-bison
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: gpl-2.0-bison-2.2
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: gpl-2.0-broadcom-linking
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: gpl-2.0-classpath
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: gpl-2.0-cygwin
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: gpl-2.0-djvu
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: gpl-2.0-font
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: gpl-2.0-freertos
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: gpl-2.0-gcc
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: gpl-2.0-gcc-compiler-exception
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: gpl-2.0-glibc
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: gpl-2.0-guile
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: gpl-2.0-ice
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: gpl-2.0-iolib
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: gpl-2.0-iso-cpp
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: gpl-2.0-javascript
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: gpl-2.0-kernel
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: gpl-2.0-koterov
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: gpl-2.0-libgit2
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: gpl-2.0-libtool
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: gpl-2.0-lmbench
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: gpl-2.0-mysql-connector-odbc
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: gpl-2.0-mysql-floss
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: gpl-2.0-openssl
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: gpl-2.0-oracle-mysql-foss
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: gpl-2.0-plus WITH 389-exception
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: gpl-2.0-plus WITH ada-linking-exception
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: gpl-2.0-plus WITH autoconf-exception-2.0
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: gpl-2.0-plus WITH autoconf-macro-exception
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: gpl-2.0-plus WITH autoopts-exception-2.0
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: gpl-2.0-plus WITH avisynth-c-interface-exception
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: gpl-2.0-plus WITH bison-exception-2.0
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: gpl-2.0-plus WITH bison-exception-2.2
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: gpl-2.0-plus WITH bootloader-exception
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: gpl-2.0-plus WITH ecos-exception-2.0
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: gpl-2.0-plus WITH font-exception-gpl
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: gpl-2.0-plus WITH freertos-exception-2.0
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: gpl-2.0-plus WITH gcc-compiler-exception-2.0
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: gpl-2.0-plus WITH gcc-linking-exception-2.0
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: gpl-2.0-plus WITH generic-exception
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: gpl-2.0-plus WITH gnu-javamail-exception
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: gpl-2.0-plus WITH gpl-generic-additional-terms
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: gpl-2.0-plus WITH guile-exception-2.0
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: gpl-2.0-plus WITH iolib-exception-2.0
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: gpl-2.0-plus WITH javascript-exception-2.0
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: gpl-2.0-plus WITH linking-exception-2.0-plus
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: gpl-2.0-plus WITH mif-exception
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: gpl-2.0-plus WITH mysql-connector-odbc-exception-2.0
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: gpl-2.0-plus WITH mysql-floss-exception-2.0
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: gpl-2.0-plus WITH openjdk-exception
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: gpl-2.0-plus WITH openmotif-exception-2.0-plus
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: gpl-2.0-plus WITH openssl-exception-gpl-2.0
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: gpl-2.0-plus WITH openssl-exception-gpl-2.0-plus
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: gpl-2.0-plus WITH qt-kde-linking-exception
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: gpl-2.0-plus WITH tex-exception
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: gpl-2.0-plus WITH u-boot-exception-2.0
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: gpl-2.0-plus WITH ubdl
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: gpl-2.0-plus WITH unlimited-linking-exception-gpl
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: gpl-2.0-plus WITH upx-exception-2.0-plus
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: gpl-2.0-plus-ada
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: gpl-2.0-plus-ekiga
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: gpl-2.0-plus-gcc
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: gpl-2.0-plus-geoserver
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: gpl-2.0-plus-linking
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: gpl-2.0-plus-nant
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: gpl-2.0-plus-openmotif
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: gpl-2.0-plus-openssl
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: gpl-2.0-plus-sane
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: gpl-2.0-plus-subcommander
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: gpl-2.0-plus-syntext
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: gpl-2.0-plus-upx
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: gpl-2.0-proguard
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: gpl-2.0-qt-qca
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: gpl-2.0-redhat
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: gpl-2.0-rrdtool-floss
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: gpl-2.0-uboot
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: GPL-2.0-with-autoconf-exception
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: GPL-2.0-with-bison-exception
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: GPL-2.0-with-font-exception
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: GPL-2.0-with-libtool-exception
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: gpl-3.0 WITH autoconf-simple-exception-2.0
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: gpl-3.0 WITH bison-exception-2.2
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: gpl-3.0 WITH classpath-exception-2.0
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: gpl-3.0 WITH font-exception-gpl
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: gpl-3.0 WITH gcc-exception-3.1
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: gpl-3.0 WITH gcc-linking-exception-2.0
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: gpl-3.0 WITH gpl-generic-additional-terms
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: gpl-3.0 WITH openssl-exception-gpl-2.0
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: gpl-3.0 WITH other-copyleft
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: gpl-3.0 WITH qt-gpl-exception-1.0
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: gpl-3.0-aptana
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: gpl-3.0-autoconf
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: gpl-3.0-bison
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: gpl-3.0-cygwin
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: gpl-3.0-font
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: gpl-3.0-gcc
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: gpl-3.0-linking-exception
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: gpl-3.0-openbd
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: gpl-3.0-plus WITH autoconf-exception-2.0
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: gpl-3.0-plus WITH autoconf-exception-3.0
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: gpl-3.0-plus WITH autoconf-macro-exception
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: gpl-3.0-plus WITH autoconf-simple-exception
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: gpl-3.0-plus WITH autoconf-simple-exception-2.0
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: gpl-3.0-plus WITH bison-exception-2.2
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: gpl-3.0-plus WITH classpath-exception-2.0
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: gpl-3.0-plus WITH cygwin-exception-3.0
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: gpl-3.0-plus WITH font-exception-gpl
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: gpl-3.0-plus WITH gcc-linking-exception-2.0
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: gpl-3.0-plus WITH libtool-exception-2.0
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: gpl-3.0-plus WITH linking-exception-2.0-plus
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: gpl-3.0-plus WITH openssl-exception-gpl-3.0-plus
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: gpl-3.0-plus WITH other-copyleft
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: gpl-3.0-plus WITH tex-exception
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: gpl-3.0-plus-openssl
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: GPL-3.0-with-autoconf-exception
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: lgpl-2.0 WITH gcc-linking-exception-2.0
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: lgpl-2.0 WITH mini-xml-exception-lgpl-2.0
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: lgpl-2.0 WITH ocaml-lgpl-linking-exception
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: lgpl-2.0-fltk
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: lgpl-2.0-plus WITH fltk-exception-lgpl-2.0
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: lgpl-2.0-plus WITH gcc-linking-exception-2.0
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: lgpl-2.0-plus WITH generic-exception
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: lgpl-2.0-plus WITH libtool-exception-2.0
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: lgpl-2.0-plus WITH ocaml-lgpl-linking-exception
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: lgpl-2.0-plus WITH unlimited-binary-linking
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: lgpl-2.0-plus WITH wxwindows-exception-3.1
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: lgpl-2.0-plus-gcc
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: lgpl-2.1 WITH broadcom-linking-exception-2.0
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: lgpl-2.1 WITH gplcc-1.0
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: lgpl-2.1 WITH libwebsockets-exception
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: lgpl-2.1 WITH linking-exception-lgpl-2.0-plus
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: lgpl-2.1 WITH ocaml-lgpl-linking-exception
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: lgpl-2.1 WITH openssl-exception-lgpl-2.0-plus
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: lgpl-2.1 WITH qt-lgpl-exception-1.1
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: lgpl-2.1 WITH unlimited-linking-exception-lgpl
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: lgpl-2.1-digia-qt
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: lgpl-2.1-nokia-qt
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: lgpl-2.1-plus WITH linking-exception-2.1-plus
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: lgpl-2.1-plus WITH ocaml-lgpl-linking-exception
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: lgpl-2.1-plus WITH qt-company-exception-lgpl-2.1
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: lgpl-2.1-plus WITH qt-lgpl-exception-1.1
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: lgpl-2.1-plus WITH rxtx-exception-lgpl-2.1
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: lgpl-2.1-plus WITH spell-checker-exception-lgpl-2.1-plus
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: lgpl-2.1-plus WITH unlimited-linking-exception-lgpl
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: lgpl-2.1-plus-linking
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: lgpl-2.1-plus-unlimited-linking
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: lgpl-2.1-qt-company
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: lgpl-2.1-qt-company-2017
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: lgpl-2.1-rxtx
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: lgpl-2.1-spell-checker
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: lgpl-3-plus-linking
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: lgpl-3.0 WITH independent-module-linking-exception
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: lgpl-3.0 WITH lgpl-3.0-linking-exception
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: lgpl-3.0-cygwin
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: lgpl-3.0-plus WITH cygwin-exception-lgpl-3.0-plus
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: lgpl-3.0-plus WITH independent-module-linking-exception
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: lgpl-3.0-plus WITH lgpl-3.0-linking-exception
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: lgpl-3.0-plus WITH ocaml-lgpl-linking-exception
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: lgpl-3.0-plus WITH openssl-exception-lgpl-3.0-plus
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: lgpl-3.0-plus WITH zeromq-exception-lgpl-3.0
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: lgpl-3.0-plus-openssl
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+  - type: approved_license
+    licenseId: lgpl-3.0-zeromq
+    linkingCondition: null
+    nameCondition: null
+    depthCondition: null
+    notes: ''
+uncategorizedLicenses:
+  - 3com-microcode
+  - 3dslicer-1.0
+  - 996-icu-1.0
+  - AAL
+  - acdl-1.0
+  - activestate-community
+  - activestate-community-2012
+  - adi-bsd
+  - Adobe-Glyph
+  - ADSL
+  - Afmparse
+  - alasir
+  - alexisisaac-freeware
+  - alfresco-exception-0.5
+  - amazon-pml
+  - Amazon-Software-License
+  - amd-historical
+  - AMDPLPA
+  - AML
+  - AMPAS
+  - ams-fonts
+  - android-sdk
+  - ANTLR-PD
+  - anu-license
+  - apache-2.0 WITH apple-runtime-library-exception
+  - apache-2.0 WITH commons-clause
+  - apache-2.0 WITH llvm-exception
+  - apache-2.0-linking-exception
+  - apache-2.0-runtime-library-exception
+  - APAFML
+  - apple-attribution-1997
+  - apple-mpeg-4
+  - apple-sscl
+  - aptana-1.0
+  - argouml
+  - arm-llvm-sga
+  - arphic-public
+  - array-input-method-pl
+  - aslp
+  - aslr
+  - atmosphere-0.4
+  - bacula-exception
+  - baekmuk-fonts
+  - Bahyph
+  - Barr
+  - bea-2.1
+  - beal-screamer
+  - Beerware
+  - bigdigits
+  - bigelow-holmes
+  - biosl-4.0
+  - BitstreamVera
+  - BitTorrent-1.0
+  - BitTorrent-1.1
+  - bittorrent-1.2
+  - blitz-artistic
+  - bloomberg-blpapi
+  - blueoak-1.0.0
+  - bodo-moeller
+  - Borceux
+  - BouncyCastle
+  - bpmn-io
+  - broadcom-cfe
+  - broadcom-linking-exception-2.0
+  - broadcom-linking-unmodified
+  - broadcom-linux-timer
+  - bsd-1-clause-build
+  - bsd-1988
+  - bsd-2-clause-plus-advertizing
+  - bsd-2-clause-views
+  - bsd-3-clause-devine
+  - bsd-3-clause-fda
+  - bsd-3-clause-jtag
+  - BSD-3-Clause-LBNL
+  - bsd-3-clause-no-change
+  - bsd-3-clause-no-military
+  - BSD-3-Clause-No-Nuclear-License
+  - BSD-3-Clause-No-Nuclear-License-2014
+  - BSD-3-Clause-No-Nuclear-Warranty
+  - bsd-3-clause-no-trademark
+  - bsd-3-clause-open-mpi
+  - bsd-3-clause-sun
+  - bsd-4-clause-shortened
+  - bsd-ack-carrot2
+  - bsd-artwork
+  - bsd-atmel
+  - bsd-axis-nomod
+  - bsd-credit
+  - bsd-dpt
+  - bsd-export
+  - bsd-innosys
+  - bsd-intel
+  - bsd-mylex
+  - bsd-new WITH ecma-no-patent
+  - bsd-new-derivative
+  - bsd-new-far-manager
+  - bsd-new-tcpdump
+  - bsd-no-disclaimer
+  - bsd-no-disclaimer-unmodified
+  - bsd-no-mod
+  - bsd-original-muscle
+  - bsd-original-uc-1986
+  - bsd-original-uc-1990
+  - bsd-plus-mod-notice
+  - bsd-simplified-darwin
+  - bsd-simplified-intel
+  - bsd-simplified-source
+  - BSD-Source-Code
+  - bsd-top
+  - bsd-top-gpl-addition
+  - bsd-unchanged
+  - bsd-unmodified
+  - bsd-x11
+  - bsl-original
+  - bugsense-sdk
+  - business-source-license-1.1
+  - c-fsl-1.1
+  - c-uda-1.0
+  - cal-1.0
+  - cal-1.0 WITH cal-1.0-combined-work-exception
+  - cal-1.0-combined-work-exception
+  - Caldera
+  - can-ogl-2.0-en
+  - can-ogl-alberta-2.1
+  - can-ogl-british-columbia-2.0
+  - can-ogl-nova-scotia-1.0
+  - can-ogl-ontario-1.0
+  - can-ogl-toronto-1.0
+  - carnegie-mellon
+  - carnegie-mellon-contributors
+  - CATOSL-1.1
+  - cavium-malloc
+  - cc-by-2.0-uk
+  - cc-by-3.0-at
+  - cc-by-3.0-de
+  - cc-by-3.0-nl
+  - cc-by-3.0-us
+  - cc-devnations-2.0
+  - cc-nc-sampling-plus-1.0
+  - cc-pd
+  - cc-sampling-1.0
+  - cc-sampling-plus-1.0
+  - CDLA-Permissive-1.0
+  - cdla-permissive-2.0
+  - CDLA-Sharing-1.0
+  - CECILL-1.0
+  - CECILL-1.1
+  - CECILL-2.0
+  - CECILL-2.1
+  - CECILL-B
+  - CECILL-C
+  - cern-ohl-1.1
+  - cern-ohl-1.2
+  - cern-ohl-p-2.0
+  - cern-ohl-s-2.0
+  - cern-ohl-w-2.0
+  - cmigemo
+  - cmu-computing-services
+  - cmu-mit
+  - cmu-simple
+  - CNRI-Jython
+  - CNRI-Python
+  - CNRI-Python-GPL-Compatible
+  - cockroach
+  - cognitive-web-osl-1.1
+  - coil-1.0
+  - Colt
+  - Commercial
+  - community-spec-1.0
+  - Condor-1.1
+  - Confluent
+  - cooperative-non-violent-4.0
+  - copyleft-next-0.3.0
+  - copyleft-next-0.3.1
+  - corporate-accountability-1.1
+  - corporate-accountability-commercial-1.1
+  - cosl
+  - cosli
+  - couchbase-community
+  - couchbase-community-0.1
+  - couchbase-use-grant-for-bsl-1.1
+  - Crossword
+  - CrystalStacker
+  - csla
+  - CUA-OPL-1.0
+  - Cube
+  - cups
+  - custom-license
+  - cximage
+  - D-FSL-1.0
+  - d-fsl-1.0-en
+  - day-spec
+  - dbad
+  - dbad-1.1
+  - dbcl-1.0
+  - delorie-historical
+  - devblocks-1.0
+  - diffmark
+  - digirule-foss-exception
+  - dl-de-by-1-0-en
+  - dl-de-by-2-0-en
+  - dl-de-by-nc-1-0-en
+  - do-no-harm-0.1
+  - DOC
+  - docbook
+  - dom4j
+  - Dotseqn
+  - drl-1.0
+  - DSDP
+  - dvipdfm
+  - dynarch-linkware
+  - ecfonts-1.0
+  - ECL-1.0
+  - ECL-2.0
+  - eclipse-sua-2001
+  - eclipse-sua-2002
+  - eclipse-sua-2011
+  - eclipse-sua-2014
+  - eclipse-sua-2014-11
+  - eclipse-sua-2017
+  - ecma-patent-coc-1
+  - ecma-patent-coc-2
+  - ecos
+  - eCos-2.0
+  - EFL-1.0
+  - EFL-2.0
+  - efsl-1.0
+  - eGenix
+  - egenix-1.0.0
+  - emit
+  - energyplus-bsd
+  - enhydra-1.1
+  - Entessa
+  - epics
+  - epo-osl-2005.1
+  - etalab-2.0
+  - EUDatagrid
+  - Eurosym
+  - facebook-nuclide
+  - facebook-patent-rights-2
+  - facebook-software-license
+  - Fair
+  - fair-source-0.9
+  - first-works-appreciative-1.2
+  - flora-1.1
+  - font-awesome-pro-2018
+  - fpl
+  - fplot
+  - Frameworx-1.0
+  - fraunhofer-fdk-aac-codec
+  - free-art-1.3
+  - free-fork
+  - freebsd-doc
+  - freebsd-first
+  - FreeImage
+  - freetype WITH autoconf-simple-exception-2.0
+  - froala-owdl-1.0
+  - FSFUL
+  - FSFULLR
+  - fsl-1.0-apache-2.0
+  - fsl-1.0-mit
+  - GFDL-1.1-or-later
+  - GFDL-1.2-or-later
+  - GFDL-1.3-or-later
+  - Giftware
+  - GL2PS
+  - Glide
+  - Glulxe
+  - glwtpl
+  - gnuplot
+  - google-patent-license
+  - gplcc-1.0
+  - graphics-gems
+  - GraphQLLanguageService
+  - gsoap-1.3a
+  - gSOAP-1.3b
+  - gust-font-1.0
+  - gust-font-2006-09-30
+  - gutenberg-2020
+  - hacos-1.2
+  - HaskellReport
+  - hazelcast-community-1.0
+  - hdf5
+  - hippocratic-1.0
+  - hippocratic-1.1
+  - Hippocratic-1.2
+  - hippocratic-2.0
+  - Hippocratic-2.1
+  - honest-public-license-1.1
+  - hp-netperf
+  - hp-proliant-essentials
+  - hp-snmp-pp
+  - HPND-sell-variant
+  - hsql
+  - ibm-as-is
+  - IBM-pibs
+  - ibm-type1-interpreter
+  - ICU-Composite
+  - ietf-trust
+  - IJG
+  - iMatix
+  - Imlib2
+  - Info-ZIP
+  - initial-developer-public
+  - inner-net-2.0
+  - instabug
+  - Intel
+  - Intel-ACPI
+  - intel-bcl
+  - intel-bsd
+  - intel-bsd-2-clause
+  - intel-disclaimer
+  - intel-mcu-2018
+  - intel-osl-1989
+  - intel-osl-1993
+  - intel-royalty-free
+  - intel-sample-source-code-2015
+  - intel-style-limited-patent
+  - Interbase-1.0
+  - IPA
+  - jahia-1.3.1
+  - jamie-kyle
+  - JasPer-2.0
+  - java-app-stub
+  - jelurida-public-1.1
+  - jpnic-idnkit
+  - jpnic-mdnkit
+  - JSON
+  - jython
+  - lal-1.2
+  - lal-1.3
+  - Latex2e
+  - Leptonica
+  - LGPLLR
+  - lha
+  - libgd-2018
+  - libtiff
+  - libwebsockets-exception
+  - lil-1
+  - LiLiQ-P-1.1
+  - LiLiQ-R-1.1
+  - LiLiQ-Rplus-1.1
+  - linux-openib
+  - llama-2-community
+  - llama-3-community
+  - llgpl
+  - logica-1.0
+  - LPPL-1.0
+  - LPPL-1.1
+  - LPPL-1.2
+  - LPPL-1.3a
+  - LPPL-1.3c
+  - lyubinskiy-dropdown
+  - m-plus
+  - MakeIndex
+  - marvell-firmware
+  - MatPlotLib
+  - maxmind-geolite2-eula-2019
+  - maxmind-odl
+  - mediainfo-lib
+  - mgopen-font-license
+  - mini-xml-exception-lgpl-2.0
+  - MirOS
+  - mit-0
+  - mit-addition
+  - mit-license-1998
+  - mit-nagy
+  - mit-no-advert-export-control
+  - mit-open-group
+  - mit-readme
+  - mit-specification-disclaimer
+  - mit-synopsys
+  - mit-taylor-variant
+  - mit-with-modification-obligations
+  - mit-xfig
+  - monetdb-1.1
+  - mongodb-sspl-1.0
+  - mongodb-sspl-1.0 WITH openssl-exception-mongodb-sspl
+  - monkey
+  - Motosoto
+  - mozilla-ospl-1.0
+  - mpich2
+  - ms-cl
+  - MS-EULA
+  - ms-limited-community
+  - ms-limited-public
+  - ms-sspl
+  - ms-vs-2017-pre-release
+  - msppl
+  - MTLL
+  - mulanpsl-1.0
+  - mulanpsl-1.0-en
+  - mulanpsl-2.0
+  - mulanpsl-2.0-en
+  - mule-source-1.1.4
+  - Multics
+  - Mup
+  - MX4J1_0
+  - NASA-1.3
+  - Naumen
+  - NBPL-1.0
+  - ncgl-uk-2.0
+  - Net-SNMP
+  - NetCDF
+  - netron
+  - Newsletr
+  - NGPL
+  - nicta-psl
+  - nist-pd-fallback
+  - NLOD-1.0
+  - NLPL
+  - Nokia
+  - non-violent-4.0
+  - NOSL
+  - Noweb
+  - NPL-1.0
+  - NPL-1.1
+  - NPOSL-3.0
+  - NRL
+  - NTP
+  - Nunit
+  - nvidia
+  - nvidia-gov
+  - nwhm
+  - nxp-proprietary
+  - o-uda-1.0
+  - OCCT-PL
+  - OCLC-2.0
+  - ocsl-1.0
+  - oculus-sdk
+  - oculus-sdk-2020
+  - oculus-sdk-3.5
+  - ODbL-1.0
+  - ODC-By-1.0
+  - odl
+  - ofl-1.1-no-rfn
+  - ogc-1.0
+  - ogdl-taiwan-1.0
+  - ogl-uk-1.0
+  - ogl-uk-2.0
+  - ogl-uk-3.0
+  - okl
+  - OLDAP-1.1
+  - OLDAP-1.2
+  - OLDAP-1.3
+  - OLDAP-1.4
+  - OLDAP-2.0
+  - OLDAP-2.0.1
+  - OLDAP-2.1
+  - OLDAP-2.2
+  - OLDAP-2.2.1
+  - OLDAP-2.2.2
+  - OLDAP-2.3
+  - OLDAP-2.4
+  - OLDAP-2.5
+  - OLDAP-2.6
+  - OLDAP-2.7
+  - OLDAP-2.8
+  - OML
+  - open-grid-forum
+  - open-group
+  - openpub
+  - openssh
+  - openssl-exception-agpl-3.0
+  - openssl-exception-agpl-3.0-plus
+  - openssl-exception-gpl-2.0
+  - openssl-exception-gpl-2.0-plus
+  - openssl-exception-gpl-3.0-plus
+  - openssl-exception-lgpl-2.0-plus
+  - openssl-exception-lgpl-3.0-plus
+  - openssl-exception-mongodb-sspl
+  - openssl-nokia-psk-contribution
+  - openssl-ssleay
+  - OPL-1.0
+  - opnl-1.0
+  - opnl-2.0
+  - Oracle
+  - oracle-fdhut
+  - oracle-futc
+  - oracle-mysql-foss-exception-2.0
+  - oracle-openjdk-classpath-exception-2.0
+  - OSET-PL-2.1
+  - OSL-1.0
+  - OSL-1.1
+  - OSL-2.0
+  - OSL-2.1
+  - owtchart
+  - ozplb-1.0
+  - ozplb-1.1
+  - pallets-flask-logo
+  - parity-6.0.0
+  - parity-7.0.0
+  - passive-aggressive
+  - pcre
+  - pd-mit
+  - PDDL-1.0
+  - pdl-1.0
+  - pftus-1.1
+  - php-2.0.2
+  - PHP-3.0
+  - PIL
+  - Plexus
+  - polyform-defensive-1.0.0
+  - polyform-free-trial-1.0.0
+  - polyform-internal-use-1.0.0
+  - polyform-noncommercial-1.0.0
+  - polyform-perimeter-1.0.0
+  - polyform-shield-1.0.0
+  - polyform-small-business-1.0.0
+  - polyform-strict-1.0.0
+  - proprietary-license
+  - Protobuf
+  - psf-3.7.2
+  - psfrag
+  - psutils
+  - pushwoosh
+  - Python-2.0
+  - Qhull
+  - qwt-1.0
+  - rcl-1.00
+  - rcsl-2.0
+  - rcsl-3.0
+  - Rdisc
+  - red-hat-logos
+  - redis-source-available-1.0
+  - redis-source-available-2.0
+  - regexp
+  - Repoze
+  - RHeCos-1.1
+  - riverbank-sip
+  - romantic-wtf
+  - RPL-1.1
+  - RPL-1.5
+  - RPSL-1.0
+  - RSA-MD
+  - RSCPL
+  - ryszard-szopa
+  - saas-mit
+  - saf
+  - san-francisco-font
+  - sata
+  - SAX-PD
+  - Saxpath
+  - sbia-b
+  - SCEA
+  - scilab-en
+  - scola-en
+  - SCSL-2.8
+  - Sendmail
+  - service-comp-arch
+  - SGI-B-2.0
+  - shl-0.5
+  - shl-0.51
+  - shl-2.0
+  - shl-2.1
+  - simpl-1.1
+  - SISSL
+  - SMLNJ
+  - SMPPL
+  - SNIA
+  - sparky
+  - Spencer-86
+  - Spencer-94
+  - Spencer-99
+  - ssh-short
+  - st-bsd-restricted
+  - StandardML-NJ
+  - stream-benchmark
+  - sugarcrm-1.1.2
+  - SugarCRM-1.1.3
+  - sun-bsd-extra
+  - sun-rpc
+  - SunPro
+  - SWL
+  - Taligent
+  - tapr-ohl-1.0
+  - TCP-wrappers
+  - tex-live
+  - tgppl-1.0
+  - tidy
+  - TMate
+  - TORQUE-1.1
+  - TOSL
+  - tpl-1.0
+  - trca-odl-1.0
+  - truecrypt-3.1
+  - tsl-2018
+  - tu-berlin
+  - tu-berlin-2.0
+  - ubdl
+  - ubuntu-font-1.0
+  - ucl-1.0
+  - Unicode-DFS-2015
+  - Unicode-DFS-2016
+  - Unicode-DFS-2020
+  - Unicode-TOU
+  - unity-companion-1.3
+  - unity-companion-package-1.0
+  - unity-package-distribution-2.0
+  - unknown
+  - unrar
+  - uofu-rfpl
+  - utopia
+  - vhfpl-1.1
+  - Vim
+  - visual-idiot
+  - vixie-cron
+  - volatility-vsl-v1.0
+  - VOSTROM
+  - VSL-1.0
+  - W3C
+  - W3C-19980720
+  - W3C-20150513
+  - Watcom-1.0
+  - Wsuipa
+  - wtfnmfpl-1.0
+  - wtfpl-1.0
+  - wthpl-1.0
+  - wxwidgets
+  - wxWindows
+  - wxwindows-u-3.0
+  - x11-adobe
+  - x11-ibm
+  - x11-opengroup
+  - Xerox
+  - xfree86-1.0
+  - XFree86-1.1
+  - xinetd
+  - xpp
+  - XSkat
+  - yolo-1.0
+  - YPL-1.0
+  - YPL-1.1
+  - Zed
+  - Zend-2.0
+  - Zimbra-1.3
+  - Zimbra-1.4
+  - ZPL-1.1
+  - ZPL-2.0
+  - ZPL-2.1
+  - zsh
