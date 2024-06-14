@@ -8,7 +8,7 @@ This repository is designed to manage open-source license policies using FOSSA's
 
 ### Important Guidelines
 
-- **Do NOT modify the first 7 lines** of the policy's `yml` file. These lines contain essential metadata and configurations for the policy file.
+- **Do NOT modify the first 8 lines** of the policy's `yml` file. These lines contain essential metadata and configurations for the policy file.
 
 ### Categorizing a License
 
