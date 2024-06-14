@@ -47,6 +47,9 @@ To move a license back to the `uncategorizedLicense` section:
 2. **Add the licenseId** to the `uncategorizedLicense` section in alphabetical order.
 3. **Remove the license entry** (including all associated fields) from its former section (`approved`, `flagged`, or `denied`).
 
+## Limitations
+As of June 13, 2024, the workflow currently doesn't account for moving a cateogorized license to be uncategorized. The next release will have this functionality based on diffing the changes more granularly.
+
 ## Reference
 
 For more detailed information on managing policies with FOSSA, refer to the official [FOSSA documentation](https://docs.fossa.com/docs/policies).
